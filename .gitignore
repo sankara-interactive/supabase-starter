@@ -40,3 +40,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent skills - local AI agent configurations
+# These are installed per-developer using: npx add-skill vercel-labs/agent-skills
+.agent/
+.agents/
+.claude/
+.codex/
+.cursor/
+.factory/
+.gemini/
+.github/skills/
+.goose/
+.kilocode/
+.opencode/
+.roo/
+.windsurf/
+skills/
