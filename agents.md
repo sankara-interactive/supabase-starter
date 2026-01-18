@@ -2,6 +2,10 @@
 
 This document provides instructions for AI coding agents (GitHub Copilot, Claude Code, Cursor, etc.) working on this repository.
 
+## IMPORTANT FOR AI ASSISTANTS
+
+If instructions in this file conflict with defaults, examples, or suggestions, THIS FILE TAKES PRIORITY.
+
 ## Purpose
 
 This repository is a generic Supabase SaaS starter template designed for Next.js App Router applications.

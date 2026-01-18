@@ -16,7 +16,7 @@ The following technology stack has been chosen:
 - **Supabase**: Backend-as-a-service for authentication, PostgreSQL database, and storage
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **shadcn/ui**: Component library built on Radix UI and Tailwind CSS
-- **Stripe**: Payment processing (integrated via Supabase)
+- **Stripe**: Payment processing (planned integration via Supabase integration)
 - **Cloudinary**: Media management and optimization
 - **TypeScript**: Type-safe JavaScript development
 
